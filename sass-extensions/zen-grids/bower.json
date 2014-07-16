@@ -1,0 +1,25 @@
+{
+  "name"        : "zen-grids",
+  "version"     : "2.0.0-beta.1",
+  "homepage"    : "http://zengrids.com",
+  "authors"     : ["John Albin Wilkins"],
+  "description" : "Zen Grids is an intuitive, flexible grid system to create responsive, adaptive, fluid and fixed-width layouts.",
+  "main"        : [
+    "_zen-grids.scss",
+    "zen-grids/_background.scss",
+    "zen-grids/_flow.scss",
+    "zen-grids/_grids.scss"
+  ],
+  "keywords"    : [
+    "Sass",
+    "Compass",
+    "grids",
+    "rwd"
+  ],
+  "license"     : "GPLv2",
+  "ignore"      : [
+    "lib",
+    "templates",
+    "zen-grids.gemspec"
+  ]
+}
