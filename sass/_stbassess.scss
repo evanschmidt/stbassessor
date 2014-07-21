@@ -477,19 +477,24 @@ body {
     margin-bottom: 1em;
     .views-field-title {
       @include zen-grid-item(12, 1, left);
+      @include zen-new-row();
       font-weight: bold;
     }
     .views-field-field-staff-title {
       @include zen-grid-item(12, 1, left);
-    }
+      @include zen-new-row();
+  }
     .views-field-field-staff-email {
       @include zen-grid-item(12, 1, left);
+      @include zen-new-row();
     }
     .views-field-field-staff-photo {
       @include zen-grid-item(5, 1, right);      
-    } 
+      @include zen-new-row();
+  } 
     .views-field-edit-node {
       @include zen-grid-item(12, 1, left);
+      @include zen-new-row();
     }
   }
 }

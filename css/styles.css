@@ -3040,111 +3040,116 @@ body {
   width: 100%;
   margin-left: 0%;
   margin-right: -100%;
+  clear: left;
   font-weight: bold;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003482}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003483}}
 .view-staff .views-row .views-field-field-staff-title {
   float: left;
   width: 100%;
   margin-left: 0%;
   margin-right: -100%;
+  clear: left;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003485}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003487}}
 .view-staff .views-row .views-field-field-staff-email {
   float: left;
   width: 100%;
   margin-left: 0%;
   margin-right: -100%;
+  clear: left;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003488}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003491}}
 .view-staff .views-row .views-field-field-staff-photo {
   float: right;
   width: 41.66667%;
   margin-right: 0%;
   margin-left: -100%;
+  clear: left;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003491}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003495}}
 .view-staff .views-row .views-field-edit-node {
   float: left;
   width: 100%;
   margin-left: 0%;
   margin-right: -100%;
+  clear: left;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003497}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003502}}
 .view-resources {
   margin-top: 1em;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003499}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003504}}
 .view-resources .views-row {
   margin-bottom: 1em;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003502}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003507}}
 .view-resources .views-field-title {
   font-weight: bold;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003506}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003511}}
 .faq-content {
   padding-top: 1em;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003510}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003515}}
 .faq-content .faq .faq-question-answer .faq-question {
   padding-left: 0;
   padding-top: 0.5em;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003513}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003518}}
 .faq-content .faq .faq-question-answer .faq-question a {
   border-bottom: 0.5px dotted #666666;
   color: #666666 !important;
   font-weight: normal !important;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003518}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003523}}
 .faq-content .faq .faq-question-answer .faq-question a:hover {
   border-bottom: 0.5px dotted #91bad5;
   color: #91bad5 !important;
   font-weight: bold !important;
   text-decoration: none !important;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003526}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003531}}
 .faq-content .faq .faq-question-answer .faq-qa-visible a {
   border-bottom: 0.5px dotted #91bad5;
   color: #91bad5 !important;
   font-weight: bold !important;
   text-decoration: none !important;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003533}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003538}}
 .faq-content .faq .faq-question-answer .faq-answer {
   padding-left: 20px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003542}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003547}}
 .view-miillage-rates tr.odd {
   padding: 0.1em 0.6em;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003550}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003555}}
 .view-miillage-rates .view-footer-number .views-field-title {
   font-weight: normal;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003555}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003560}}
 .view-miillage-rates .view-grouping .view-grouping-header {
   color: #c09848;
   font-weight: bold;
   margin-bottom: 1em;
   margin-top: 1em;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003561}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003566}}
 .view-miillage-rates .view-grouping caption {
   border-bottom: 1px solid #7cd2b5;
   color: #666666;
   font-weight: bold;
   text-align: center;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003568}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003573}}
 .view-miillage-rates .views-field-field-millage {
   text-align: right;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003572}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003577}}
 .view-miillage-rates .attachment .view-header p {
   border-bottom: 1px solid #7cd2b5;
   color: #666666 !important;
@@ -3152,41 +3157,41 @@ body {
   margin-bottom: 0.5em;
   text-align: center;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003580}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003585}}
 .view-miillage-rates .view-subfooter-number {
   display: none;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003584}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003589}}
 .view-miillage-rates #editableviews-entity-form-miillage-rates td {
   padding: 1em 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003588}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003593}}
 .view-miillage-rates #editableviews-entity-form-miillage-rates .views-field-title-editable label {
   display: none;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003593}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003598}}
 .view-miillage-rates #editableviews-entity-form-miillage-rates .views-field-edit-node a {
   display: inline !important;
   font-weight: normal !important;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003601}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003606}}
 #block-views-homepage-image-block {
   color: white;
   margin-bottom: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003604}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003609}}
 #block-views-homepage-image-block .flexslider {
   background: none repeat scroll 0 0 transparent;
   border: medium none;
   box-shadow: none;
   margin: 0 0 0.25em;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003610}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003615}}
 #block-views-homepage-image-block .flex-direction-nav {
   *height: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003612}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003617}}
 #block-views-homepage-image-block .flex-direction-nav a {
   display: block;
   width: 40px;
@@ -3204,58 +3209,58 @@ body {
   -moz-transition: all .3s ease;
   transition: all .3s ease;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003629}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003634}}
 #block-views-homepage-image-block .flex-direction-nav .flex-prev {
   left: -50px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003632}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003637}}
 #block-views-homepage-image-block .flex-direction-nav .flex-next {
   right: -50px;
   text-align: right;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003637}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003642}}
 #block-views-homepage-image-block .flexslider:hover .flex-prev {
   opacity: 0.7;
   left: 10px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003641}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003646}}
 #block-views-homepage-image-block .flexslider:hover .flex-next {
   opacity: 0.7;
   right: 10px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003645}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003650}}
 #block-views-homepage-image-block .flexslider:hover .flex-next:hover, #block-views-homepage-image-block .flexslider:hover .flex-prev:hover {
   opacity: 1;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003649}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003654}}
 #block-views-homepage-image-block .flex-direction-nav .flex-disabled {
   opacity: 0 !important;
   filter: alpha(opacity=0);
   cursor: default;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003654}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003659}}
 #block-views-homepage-image-block .flex-direction-nav a:before {
   font-family: "flexslider-icon";
   font-size: 20px;
   display: inline-block;
   content: '\f001';
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003660}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003665}}
 #block-views-homepage-image-block .flex-direction-nav a.flex-next:before {
   content: '\f002';
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003664}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003669}}
 #block-views-homepage-image-block .views-field-field-homepage-image-tagline {
   padding: 1em;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003666}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003671}}
 #block-views-homepage-image-block .views-field-field-homepage-image-tagline a {
   color: #fff;
   font-style: italic;
   padding-left: 1em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003675}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003680}}
 .views-responsive-grid {
   padding-left: 10px;
   padding-right: 10px;
@@ -3274,12 +3279,12 @@ body {
   clear: both;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003679}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003684}}
 .views-responsive-grid .views-row {
   clear: left;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003682}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003687}}
 .views-responsive-grid.views-columns-2 {
   margin-left: -10px;
   margin-right: -10px;
@@ -3295,14 +3300,14 @@ body {
 .views-responsive-grid.views-columns-2:after {
   clear: both;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003685}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003690}}
 .views-responsive-grid.views-columns-2 .views-column-1 {
   float: left;
   width: 8.33333%;
   margin-left: 0%;
   margin-right: -100%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003688}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003693}}
 .views-responsive-grid.views-columns-2 .views-column-2 {
   float: left;
   width: 8.33333%;
@@ -3310,7 +3315,7 @@ body {
   margin-right: -100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003692}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003697}}
 .views-responsive-grid.views-columns-3 {
   margin-left: -10px;
   margin-right: -10px;
@@ -3326,21 +3331,21 @@ body {
 .views-responsive-grid.views-columns-3:after {
   clear: both;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003695}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003700}}
 .views-responsive-grid.views-columns-3 .views-column-1 {
   float: left;
   width: 8.33333%;
   margin-left: 0%;
   margin-right: -100%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003698}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003703}}
 .views-responsive-grid.views-columns-3 .views-column-2 {
   float: left;
   width: 8.33333%;
   margin-left: 8.33333%;
   margin-right: -100%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003701}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003706}}
 .views-responsive-grid.views-columns-3 .views-column-3 {
   float: left;
   width: 8.33333%;
@@ -3348,7 +3353,7 @@ body {
   margin-right: -100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003705}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003710}}
 .views-responsive-grid.views-columns-4 {
   margin-left: -10px;
   margin-right: -10px;
@@ -3364,28 +3369,28 @@ body {
 .views-responsive-grid.views-columns-4:after {
   clear: both;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003709}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003714}}
 .views-responsive-grid.views-columns-4 .views-column-1 {
   float: left;
   width: 8.33333%;
   margin-left: 0%;
   margin-right: -100%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003712}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003717}}
 .views-responsive-grid.views-columns-4 .views-column-2 {
   float: left;
   width: 8.33333%;
   margin-left: 8.33333%;
   margin-right: -100%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003715}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003720}}
 .views-responsive-grid.views-columns-4 .views-column-3 {
   float: left;
   width: 8.33333%;
   margin-left: 16.66667%;
   margin-right: -100%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003718}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003723}}
 .views-responsive-grid.views-columns-4 .views-column-4 {
   float: left;
   width: 8.33333%;
