@@ -2893,7 +2893,7 @@ body {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003375}}
 #content .view-news .views-row {
-  border-bottom: 1px solid #91bad5;
+  border-bottom: 1px solid black;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003380}}
