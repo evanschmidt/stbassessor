@@ -476,7 +476,8 @@ body {
     @include zen-grid-container();
     @include zen-new-row();
     border-bottom: 0.5px dotted $grey;
-    margin-bottom: 1em;
+    margin-bottom: 3em;
+    padding-bottom: 3em;
     .views-field-title {
       @include zen-grid-item(12, 1, left);
       @include zen-new-row();
