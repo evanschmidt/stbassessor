@@ -28,6 +28,9 @@ body {
       background: none repeat scroll 0 0 $gold;
       padding-left: 2em;
       color: $darkgrey;
+      img {
+        border: 15px solid $gold;
+      }
       h2 {
         border-bottom: 1px solid $white;
         color: $white;
