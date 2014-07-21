@@ -491,6 +491,10 @@ body {
     .views-field-field-staff-photo {
       @include zen-grid-item(5, 1, right);      
     } 
+    .views-field-edit-node {
+      @include zen-new-row();
+      @include zen-grid-item(12, 1);
+    }
   }
 }
 
