@@ -699,7 +699,7 @@ td.view-footer, td.view-footer-number {
     border-top: none;
 }
 td.view-footer, td.view-footer-number, td.view-total, td.view-total-number {
-    background-color: $gold;
+    background-color: $gold-trans;
     font-weight: bold;
 }
 @if $legacy-support-for-ie6 or $legacy-support-for-ie7 {

@@ -2281,7 +2281,7 @@ td.view-footer, td.view-footer-number {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/components\/_misc\.scss}line{font-family:\00003701}}
 td.view-footer, td.view-footer-number, td.view-total, td.view-total-number {
-  background-color: #ebc681;
+  background-color: rgba(235, 198, 129, 0.75);
   font-weight: bold;
 }
 
