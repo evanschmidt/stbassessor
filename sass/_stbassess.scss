@@ -466,6 +466,8 @@ body {
   font-size: 0.75em;
 }
 .view-staff {
+  @include zen-grid-container();
+  @include zen-grid-background($grid-color: #F00);
   margin-top: 1em;
   .views-row {
     border-bottom: 1px solid $lightgrey;
@@ -475,6 +477,7 @@ body {
     font-weight: bold;
   } 
 }
+
 .view-resources {
   margin-top: 1em;
   .views-row {
