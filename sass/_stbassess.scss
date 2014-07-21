@@ -370,6 +370,13 @@ body {
     width: 100%;
   }
 }
+#content {
+  .view-news {
+    .views-row {
+      border-bottom: 1px solid $blue;
+    }
+  }
+}
 #block-views-news-block {
   //border: 1px solid $blue;
   margin: 2em 0 3em;
