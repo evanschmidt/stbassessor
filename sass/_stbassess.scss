@@ -467,11 +467,10 @@ body {
 }
 .view-staff {
   @include zen-grid-container();
-  @include zen-grid-background($grid-color: #F00);
+  //@include zen-grid-background($grid-color: #CCC);
   margin-top: 1em;
   .views-row {
     @include zen-grid-container();
-    @include zen-grid-background($grid-color: #CCC);
     @include zen-new-row();
     border-bottom: 1px solid $lightgrey;
     margin-bottom: 1em;
