@@ -564,7 +564,10 @@ body {
   tr.odd {
     background-color: $gold-trans;
     border-bottom: none;
-    padding: 1em 0.6em;
+    padding: 0.1em 0.6em;
+  }
+  td {
+    padding: 1em auto;
   }
   tr.even {
     background-color: #fff;
