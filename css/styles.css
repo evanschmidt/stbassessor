@@ -2263,7 +2263,7 @@ form table ul {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/components\/_misc\.scss}line{font-family:\00003688}}
 tr.even,
 tr.odd {
-  background-color: #eee;
+  background-color: #ebc681;
   border-bottom: 1px solid #ccc;
   padding: 0.1em 0.6em;
 }
