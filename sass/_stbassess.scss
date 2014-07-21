@@ -472,10 +472,20 @@ body {
   .views-row {
     border-bottom: 1px solid $lightgrey;
     margin-bottom: 1em;
+    .views-field-title {
+      @include zen-grid-item(7, 1);
+      font-weight: bold;
+    }
+    .views-field-field-staff-title {
+      @include zen-grid-item(7, 1);
+    }
+    .views-field-field-staff-email {
+      @include zen-grid-item(7, 1);
+    }
+    .views-field-field-staff-photo {
+      @include zen-grid-item(5, 1, right);      
+    } 
   }
-  .views-field-title {
-    font-weight: bold;
-  } 
 }
 
 .view-resources {
