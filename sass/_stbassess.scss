@@ -374,6 +374,10 @@ body {
   .view-news {
     .views-row {
       border-bottom: 0.5px dotted $grey;
+      h2 {
+        font-size: 1.15em;
+        font-weight: 200;
+      }
     }
   }
 }
