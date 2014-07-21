@@ -2501,7 +2501,7 @@ body {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\0000327}}
 .front #content article {
-  background: none repeat scroll 0 0 #c09848;
+  background: none repeat scroll 0 0 #e0bc7b;
   padding-left: 2em;
   color: #333333;
 }
@@ -2544,7 +2544,7 @@ body {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\0000365}}
 #content-top .region-content-top-right a {
-  color: #c09848;
+  color: #91bad5;
   display: block;
   font-weight: bold;
   margin-top: 1em;
@@ -2595,7 +2595,7 @@ body {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003108}}
 #content a {
-  color: #c09848;
+  color: #e0bc7b;
   display: block;
   font-weight: bold;
 }
@@ -2653,7 +2653,7 @@ body {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003162}}
 .region-sidebar-second .block a {
-  color: #c09848;
+  color: #e0bc7b;
   display: block;
   font-weight: bold;
   margin-top: 1em;
@@ -2823,7 +2823,7 @@ body {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003313}}
 #block-menu-block-2 ul li a:hover {
-  color: #c09848;
+  color: #e0bc7b;
   text-decoration: underline;
 }
 
@@ -2957,7 +2957,7 @@ body {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003431}}
 #block-views-news-block .views-field-view-node a {
-  color: #c09848;
+  color: #e0bc7b;
   font-weight: bold;
 }
 
@@ -3127,7 +3127,7 @@ body {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003559}}
 .view-miillage-rates .view-grouping .view-grouping-header {
-  color: #c09848;
+  color: #e0bc7b;
   font-weight: bold;
   margin-bottom: 1em;
   margin-top: 1em;
