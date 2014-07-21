@@ -3017,7 +3017,7 @@ body {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003475}}
 .view-staff .views-row {
   clear: left;
-  border-bottom: 1px solid #999999;
+  border-bottom: 0.5px dotted #666666;
   margin-bottom: 1em;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass-extensions\/zen-grids\/zen-grids\/_grids\.scss}line{font-family:\0000326}}
