@@ -2263,7 +2263,7 @@ form table ul {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/components\/_misc\.scss}line{font-family:\00003688}}
 tr.even,
 tr.odd {
-  background-color: rgba(235, 198, 129, 0.1);
+  background-color: rgba(235, 198, 129, 0.5);
   border-bottom: none;
   padding: 0.1em 0.6em;
 }
@@ -2281,7 +2281,7 @@ td.view-footer, td.view-footer-number {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/components\/_misc\.scss}line{font-family:\00003701}}
 td.view-footer, td.view-footer-number, td.view-total, td.view-total-number {
-  background-color: rgba(235, 198, 129, 0.1);
+  background-color: rgba(235, 198, 129, 0.5);
   font-weight: bold;
 }
 
@@ -3165,7 +3165,7 @@ body {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003582}}
 .view-miillage-rates .view-grouping caption {
-  border-bottom: 1px solid #7cd2b5;
+  border-bottom: 0.5px dotted #666666;
   color: #666666;
   font-weight: bold;
   text-align: center;
@@ -3176,7 +3176,7 @@ body {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003593}}
 .view-miillage-rates .attachment .view-header p {
-  border-bottom: 1px solid #7cd2b5;
+  border-bottom: 0.5px dotted #666666;
   color: #666666 !important;
   font-weight: bold;
   margin-bottom: 0.5em;

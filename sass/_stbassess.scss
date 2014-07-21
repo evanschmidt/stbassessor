@@ -580,7 +580,7 @@ body {
       margin-top: 1em;
     }
     caption {
-      border-bottom: 1px solid $green;
+      border-bottom: 0.5px dotted $grey;
       color: $grey;
       font-weight: bold;
       text-align: center;      
@@ -591,7 +591,7 @@ body {
   }
   .attachment {
     .view-header p {
-      border-bottom: 1px solid $green;
+      border-bottom: 0.5px dotted $grey;
       color: $grey!important;
       font-weight: bold;
       margin-bottom: 0.5em;
