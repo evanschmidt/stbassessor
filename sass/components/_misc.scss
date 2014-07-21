@@ -688,11 +688,19 @@ form {
 tr.even,
 tr.odd {
   background-color: $gold;
-  border-bottom: 1px solid #ccc;
+  border-bottom: none;
   padding: 0.1em 0.6em;
 }
 tr.even {
   background-color: #fff;
+}
+td.view-footer, td.view-footer-number {
+    border-bottom: none;
+    border-top: none;
+}
+td.view-footer, td.view-footer-number, td.view-total, td.view-total-number {
+    background-color: $gold;
+    font-weight: bold;
 }
 @if $legacy-support-for-ie6 or $legacy-support-for-ie7 {
   .lt-ie8 tr.even,
@@ -700,7 +708,7 @@ tr.even {
     th,
     td {
       /* IE doesn't display borders on table rows. */
-      border-bottom: 1px solid #ccc;
+      //border-bottom: 1px solid #ccc;
     }
   }
 }
