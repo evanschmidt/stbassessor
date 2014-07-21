@@ -3153,7 +3153,7 @@ body {
 .view-miillage-rates tr.odd {
   background-color: rgba(235, 198, 129, 0.25);
   border-bottom: none;
-  padding: 0.1em 0.6em;
+  padding: 1em 0.6em;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003569}}
 .view-miillage-rates tr.even {
