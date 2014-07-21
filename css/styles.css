@@ -2263,7 +2263,7 @@ form table ul {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/components\/_misc\.scss}line{font-family:\00003688}}
 tr.even,
 tr.odd {
-  background-color: rgba(235, 198, 129, 0.75);
+  background-color: rgba(235, 198, 129, 0.1);
   border-bottom: none;
   padding: 0.1em 0.6em;
 }
@@ -2281,7 +2281,7 @@ td.view-footer, td.view-footer-number {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/components\/_misc\.scss}line{font-family:\00003701}}
 td.view-footer, td.view-footer-number, td.view-total, td.view-total-number {
-  background-color: rgba(235, 198, 129, 0.75);
+  background-color: rgba(235, 198, 129, 0.1);
   font-weight: bold;
 }
 
