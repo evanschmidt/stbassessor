@@ -2501,7 +2501,7 @@ body {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\0000327}}
 .front #content article {
-  background: none repeat scroll 0 0 #e0bc7b;
+  background: none repeat scroll 0 0 #ebc681;
   padding-left: 2em;
   color: #333333;
 }
@@ -3123,7 +3123,7 @@ body {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003555}}
 .view-miillage-rates .view-grouping .view-grouping-header {
-  color: #e0bc7b;
+  color: #ebc681;
   font-weight: bold;
   margin-bottom: 1em;
   margin-top: 1em;
