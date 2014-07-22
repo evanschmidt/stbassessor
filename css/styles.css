@@ -696,7 +696,7 @@ table {
 /**
  * Use 6 grid columns for smaller screens.
  */
-@media all and (min-width: 480px) and (max-width: 959px) {
+@media all and (min-width: 480px) and (max-width: 759px) {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003103}}
   .front h1 {
     display: none;
