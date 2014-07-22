@@ -673,16 +673,16 @@ table {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\0000371}}
   #main {
     /* Move all the children of #main down to make room. */
-    padding-top: 4.4em;
     position: relative;
+    padding-top: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\0000376}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\0000377}}
   #navigation {
     /* Move the navbar up inside #main's padding. */
     position: absolute;
     top: 0;
-    height: 4.4em;
+    height: 0;
     width: 100%;
   }
 }
@@ -690,12 +690,12 @@ table {
  * Use 6 grid columns for smaller screens.
  */
 @media all and (min-width: 480px) and (max-width: 959px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\0000396}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\0000398}}
   .front h1 {
     display: none;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003100}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003102}}
   #content-top {
     margin-bottom: 0.05em;
   }
@@ -708,7 +708,7 @@ table {
   #content-top:after {
     clear: both;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003103}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003105}}
   #content-top .region-content-top {
     float: left;
     width: 50%;
@@ -716,7 +716,7 @@ table {
     margin-right: -100%;
     position: relative;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003107}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003109}}
   #content-top .region-content-top-right {
     float: left;
     width: 50%;
@@ -735,22 +735,22 @@ table {
   #content-top .region-content-top-right:after {
     clear: both;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003112}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003114}}
   #content-top .region-content-top-right .block {
     margin-bottom: 1em;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003114}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003116}}
   #content-top .region-content-top-right .block h2 {
     width: 50%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003118}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003120}}
   #content-top .region-content-top-right .block:nth-child(1) {
     float: left;
     width: 50%;
     margin-left: 0%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003121}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003123}}
   #content-top .region-content-top-right .block:nth-child(2) {
     float: left;
     width: 50%;
@@ -758,7 +758,7 @@ table {
     margin-right: -100%;
     clear: right;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003125}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003127}}
   #content-top .region-content-top-right .block:nth-child(3) {
     float: left;
     width: 50%;
@@ -766,14 +766,14 @@ table {
     margin-right: -100%;
     clear: left;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003129}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003131}}
   #content-top .region-content-top-right .block:nth-child(4) {
     float: left;
     width: 50%;
     margin-left: 50%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003133}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003135}}
   #content-top #block-block-2,
   #content-top #block-views-homepage-image-block {
     float: left;
@@ -793,7 +793,7 @@ table {
   #content-top #block-views-homepage-image-block:after {
     clear: both;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003138}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003140}}
   #content-top #block-block-2 #assess-type,
   #content-top #block-views-homepage-image-block #assess-type {
     float: left;
@@ -801,7 +801,7 @@ table {
     margin-left: 0%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003141}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003143}}
   #content-top #block-block-2 #court-img,
   #content-top #block-views-homepage-image-block #court-img {
     float: left;
@@ -810,7 +810,7 @@ table {
     margin-right: -100%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003146}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003148}}
   #block-block-17 {
     bottom: -15%;
     left: 45%;
@@ -818,7 +818,7 @@ table {
     z-index: 99;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003155}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003157}}
   .not-front #content-top .region-content-top {
     float: left;
     width: 8.33333%;
@@ -827,11 +827,11 @@ table {
     border: 1px solid;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003162}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003164}}
   #navigation h2 {
     display: none;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003165}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003167}}
   #navigation #nice-menu-1 {
     margin-left: -5px;
     margin-right: -5px;
@@ -852,49 +852,49 @@ table {
   #navigation #nice-menu-1:after {
     clear: both;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003171}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003173}}
   #navigation li:nth-child(1) {
     float: left;
     width: 14.28571%;
     margin-left: 0%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003174}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003176}}
   #navigation li:nth-child(2) {
     float: left;
     width: 14.28571%;
     margin-left: 14.28571%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003177}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003179}}
   #navigation li:nth-child(3) {
     float: left;
     width: 14.28571%;
     margin-left: 28.57143%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003180}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003182}}
   #navigation li:nth-child(4) {
     float: left;
     width: 14.28571%;
     margin-left: 42.85714%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003183}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003185}}
   #navigation li:nth-child(5) {
     float: left;
     width: 14.28571%;
     margin-left: 57.14286%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003186}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003188}}
   #navigation li:nth-child(6) {
     float: left;
     width: 14.28571%;
     margin-left: 71.42857%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003189}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003191}}
   #navigation li:nth-child(7) {
     float: left;
     width: 14.28571%;
@@ -902,7 +902,7 @@ table {
     margin-right: -100%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003193}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003195}}
   #block-views-news-block {
     margin-left: -5px;
     margin-right: -5px;
@@ -919,28 +919,28 @@ table {
   #block-views-news-block:after {
     clear: both;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003198}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003200}}
   #block-views-news-block .view-header {
     float: left;
     width: 25%;
     margin-left: 0%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003201}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003203}}
   #block-views-news-block .views-row-1 {
     float: left;
     width: 25%;
     margin-left: 25%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003204}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003206}}
   #block-views-news-block .views-row-2 {
     float: left;
     width: 25%;
     margin-left: 50%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003207}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003209}}
   #block-views-news-block .views-row-3 {
     float: left;
     width: 25%;
@@ -948,14 +948,14 @@ table {
     margin-right: -100%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003215}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003217}}
   #footer #block-block-1 {
     float: left;
     width: 75%;
     margin-left: 0%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003222}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003224}}
   #footer #block-menu-block-2 {
     float: left;
     width: 25%;
@@ -963,7 +963,7 @@ table {
     margin-right: -100%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003226}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003228}}
   #block-block-11,
   #block-block-12,
   #block-block-2,
@@ -971,7 +971,7 @@ table {
     display: block;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003235}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003237}}
   #block-menu-block-1 ul li {
     margin: 0.5em 0;
     line-height: 1em;
@@ -980,26 +980,26 @@ table {
   /**
    * The layout when there is only one sidebar, the left one.
    */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003244}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003246}}
   .sidebar-first {
     /* Span 2 columns, starting in 2nd column from left. */
     /* Span 1 column, starting in 1st column from left. */
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003247}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003249}}
   .sidebar-first #content {
     float: left;
     width: 83.33333%;
     margin-left: 16.66667%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003252}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003254}}
   .sidebar-first .region-sidebar-first {
     float: left;
     width: 33.33333%;
     margin-left: 0%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003257}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003259}}
   .sidebar-first .region-sidebar-first #block-block-12 {
     float: right;
     width: 66.66667%;
@@ -1007,14 +1007,14 @@ table {
     margin-left: -100%;
     clear: right;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003261}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003263}}
   .sidebar-first .region-sidebar-first #block-block-11 {
     float: left;
     width: 33.33333%;
     margin-left: 0%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003264}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003266}}
   .sidebar-first .region-sidebar-first #block-menu-block-1 {
     float: left;
     width: 50%;
@@ -1026,19 +1026,19 @@ table {
   /**
    * The layout when there is only one sidebar, the right one.
    */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003274}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003276}}
   .sidebar-second {
     /* Span 2 columns, starting in 1st column from left. */
     /* Span 1 column, starting in 3rd column from left. */
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003277}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003279}}
   .sidebar-second #content {
     float: left;
     width: 66.66667%;
     margin-left: 0%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003282}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003284}}
   .sidebar-second .region-sidebar-second {
     float: left;
     width: 33.33333%;
@@ -1049,20 +1049,20 @@ table {
   /**
    * The layout when there are two sidebars.
    */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003290}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003292}}
   .two-sidebars {
     /* Span 2 columns, starting in 2nd column from left. */
     /* Span 1 column, starting in 1st column from left. */
     /* Start a new row and span all 3 columns. */
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003293}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003295}}
   .two-sidebars #content {
     float: left;
     width: 66.66667%;
     margin-left: 33.33333%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003298}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003300}}
   .two-sidebars .region-sidebar-first {
     float: left;
     width: 33.33333%;
@@ -1073,7 +1073,7 @@ table {
     margin-left: 0%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003304}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003306}}
   .two-sidebars .region-sidebar-first #block-block-12 {
     float: right;
     width: 66.66667%;
@@ -1081,14 +1081,14 @@ table {
     margin-left: -100%;
     clear: right;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003308}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003310}}
   .two-sidebars .region-sidebar-first #block-block-11 {
     float: left;
     width: 33.33333%;
     margin-left: 0%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003311}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003313}}
   .two-sidebars .region-sidebar-first #block-menu-block-1 {
     float: right;
     width: 66.66667%;
@@ -1096,7 +1096,7 @@ table {
     margin-left: -100%;
     clear: right;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003318}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003320}}
   .two-sidebars .region-sidebar-second {
     float: left;
     width: 100%;
@@ -1119,7 +1119,7 @@ table {
   .two-sidebars .region-sidebar-second:after {
     clear: both;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003324}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003326}}
   .two-sidebars .region-sidebar-second .block {
     padding-left: 5px;
     padding-right: 5px;
@@ -1128,7 +1128,7 @@ table {
     -ms-box-sizing: border-box;
     box-sizing: border-box;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003328}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003330}}
   .two-sidebars .region-sidebar-second .block:nth-child(3n+1) {
     float: left;
     width: 33.33333%;
@@ -1136,14 +1136,14 @@ table {
     margin-right: -100%;
     clear: left;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003333}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003335}}
   .two-sidebars .region-sidebar-second .block:nth-child(3n+2) {
     float: left;
     width: 33.33333%;
     margin-left: 33.33333%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003337}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003339}}
   .two-sidebars .region-sidebar-second .block:nth-child(3n+3) {
     float: left;
     width: 33.33333%;
@@ -1155,7 +1155,7 @@ table {
  * Use 5 grid columns for larger screens.
  */
 @media all and (min-width: 960px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003354}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003356}}
   .front h1 {
     display: none;
   }
@@ -1169,7 +1169,7 @@ table {
   #content-top:after {
     clear: both;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003368}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003370}}
   #content-top .region-content-top {
     float: left;
     width: 50%;
@@ -1177,7 +1177,7 @@ table {
     margin-right: -100%;
     position: relative;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003372}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003374}}
   #content-top .region-content-top-right {
     float: left;
     width: 50%;
@@ -1195,18 +1195,18 @@ table {
   #content-top .region-content-top-right:after {
     clear: both;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003376}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003378}}
   #content-top .region-content-top-right .block {
     margin-bottom: 1em;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003379}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003381}}
   #content-top .region-content-top-right .block:nth-child(1) {
     float: left;
     width: 50%;
     margin-left: 0%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003382}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003384}}
   #content-top .region-content-top-right .block:nth-child(2) {
     float: left;
     width: 50%;
@@ -1214,7 +1214,7 @@ table {
     margin-right: -100%;
     clear: right;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003386}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003388}}
   #content-top .region-content-top-right .block:nth-child(3) {
     float: left;
     width: 50%;
@@ -1222,18 +1222,18 @@ table {
     margin-right: -100%;
     clear: left;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003390}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003392}}
   #content-top .region-content-top-right .block:nth-child(4) {
     float: left;
     width: 50%;
     margin-left: 50%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003394}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003396}}
   #content-top .region-content-top-right #block-block-5 h2 {
     width: 50%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003399}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003401}}
   #content-top #block-block-2,
   #content-top #block-views-homepage-image-block {
     float: left;
@@ -1253,7 +1253,7 @@ table {
   #content-top #block-views-homepage-image-block:after {
     clear: both;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003404}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003406}}
   #content-top #block-block-2 #assess-type,
   #content-top #block-views-homepage-image-block #assess-type {
     float: left;
@@ -1261,7 +1261,7 @@ table {
     margin-left: 0%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003407}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003409}}
   #content-top #block-block-2 #court-img,
   #content-top #block-views-homepage-image-block #court-img {
     float: left;
@@ -1270,7 +1270,7 @@ table {
     margin-right: -100%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003412}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003414}}
   .front #block-block-17 {
     bottom: -35px;
     left: 250px;
@@ -1279,13 +1279,13 @@ table {
     margin: 0;
     padding: 0;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003419}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003421}}
   .front #block-block-17 p {
     margin: 0;
     padding: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003427}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003429}}
   .not-front #content-top .region-content-top {
     float: left;
     width: 8.33333%;
@@ -1293,16 +1293,16 @@ table {
     margin-right: -100%;
     border: 1px solid;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003432}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003434}}
   .not-front #block-block-17 {
     display: none;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003438}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003440}}
   #navigation h2 {
     display: none;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003441}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003443}}
   #navigation #nice-menu-1 {
     margin-left: 0;
     margin-right: 0;
@@ -1322,49 +1322,49 @@ table {
   #navigation #nice-menu-1:after {
     clear: both;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003448}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003450}}
   #navigation li:nth-child(1) {
     float: left;
     width: 14.28571%;
     margin-left: 0%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003451}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003453}}
   #navigation li:nth-child(2) {
     float: left;
     width: 14.28571%;
     margin-left: 14.28571%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003454}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003456}}
   #navigation li:nth-child(3) {
     float: left;
     width: 14.28571%;
     margin-left: 28.57143%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003457}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003459}}
   #navigation li:nth-child(4) {
     float: left;
     width: 14.28571%;
     margin-left: 42.85714%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003460}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003462}}
   #navigation li:nth-child(5) {
     float: left;
     width: 14.28571%;
     margin-left: 57.14286%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003463}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003465}}
   #navigation li:nth-child(6) {
     float: left;
     width: 14.28571%;
     margin-left: 71.42857%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003466}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003468}}
   #navigation li:nth-child(7) {
     float: left;
     width: 14.28571%;
@@ -1372,7 +1372,7 @@ table {
     margin-right: -100%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003470}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003472}}
   #block-views-news-block {
     margin-left: 0;
     margin-right: 0;
@@ -1388,28 +1388,28 @@ table {
   #block-views-news-block:after {
     clear: both;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003475}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003477}}
   #block-views-news-block .view-header {
     float: left;
     width: 25%;
     margin-left: 0%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003478}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003480}}
   #block-views-news-block .views-row-1 {
     float: left;
     width: 25%;
     margin-left: 25%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003481}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003483}}
   #block-views-news-block .views-row-2 {
     float: left;
     width: 25%;
     margin-left: 50%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003484}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003486}}
   #block-views-news-block .views-row-3 {
     float: left;
     width: 25%;
@@ -1417,14 +1417,14 @@ table {
     margin-right: -100%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003492}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003494}}
   #footer #block-block-1 {
     float: left;
     width: 75%;
     margin-left: 0%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003495}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003497}}
   #footer #block-menu-block-2 {
     float: left;
     width: 25%;
@@ -1432,7 +1432,7 @@ table {
     margin-right: -100%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003499}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003501}}
   #block-block-11,
   #block-block-12,
   #block-block-2,
@@ -1443,26 +1443,26 @@ table {
   /**
    * The layout when there is only one sidebar, the left one.
    */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003511}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003513}}
   .sidebar-first {
     /* Span 4 columns, starting in 2nd column from left. */
     /* Span 1 column, starting in 1st column from left. */
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003516}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003518}}
   .sidebar-first #content {
     float: left;
     width: 83.33333%;
     margin-left: 16.66667%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003521}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003523}}
   .sidebar-first .region-sidebar-first {
     float: left;
     width: 33.33333%;
     margin-left: 0%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003526}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003528}}
   .sidebar-first .region-sidebar-first #block-block-12 {
     float: right;
     width: 66.66667%;
@@ -1470,14 +1470,14 @@ table {
     margin-left: -100%;
     clear: right;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003530}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003532}}
   .sidebar-first .region-sidebar-first #block-block-11 {
     float: left;
     width: 33.33333%;
     margin-left: 0%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003533}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003535}}
   .sidebar-first .region-sidebar-first #block-menu-block-1 {
     float: left;
     width: 50%;
@@ -1489,19 +1489,19 @@ table {
   /**
    * The layout when there is only one sidebar, the right one.
    */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003542}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003544}}
   .sidebar-second {
     /* Span 4 columns, starting in 1st column from left. */
     /* Span 1 column, starting in 5th column from left. */
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003545}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003547}}
   .sidebar-second #content {
     float: left;
     width: 75%;
     margin-left: 0%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003551}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003553}}
   .sidebar-second .region-sidebar-second {
     float: left;
     width: 25%;
@@ -1512,27 +1512,27 @@ table {
   /**
    * The layout when there are two sidebars.
    */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003560}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003562}}
   .two-sidebars {
     /* Span 3 columns, starting in 2nd column from left. */
     /* Span 1 column, starting in 1st column from left. */
     /* Span 1 column, starting in 5th column from left. */
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003563}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003565}}
   .two-sidebars #content {
     float: left;
     width: 41.66667%;
     margin-left: 33.33333%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003569}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003571}}
   .two-sidebars .region-sidebar-first {
     float: left;
     width: 33.33333%;
     margin-left: 0%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003573}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003575}}
   .two-sidebars .region-sidebar-first #block-block-12 {
     float: right;
     width: 66.66667%;
@@ -1540,14 +1540,14 @@ table {
     margin-left: -100%;
     clear: right;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003577}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003579}}
   .two-sidebars .region-sidebar-first #block-block-11 {
     float: left;
     width: 33.33333%;
     margin-left: 0%;
     margin-right: -100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003580}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003582}}
   .two-sidebars .region-sidebar-first #block-menu-block-1 {
     float: left;
     width: 66.66667%;
@@ -1555,7 +1555,7 @@ table {
     margin-right: -100%;
     clear: right;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003587}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003589}}
   .two-sidebars .region-sidebar-second {
     float: left;
     width: 25%;
