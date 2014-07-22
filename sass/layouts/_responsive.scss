@@ -90,6 +90,25 @@ $zen-auto-include-grid-item-base: false;
 }
 } // End of @if $zen-switch-direction == true
 
+@media all and (min-width: 480px) and (max-width: 759px) {
+#main {
+  //@include zen-grid-background($grid-color: #CCC);
+}
+  #main {
+    /* Move all the children of #main down to make room. */
+    padding-top: $nav-height;
+  }
+  #navigation {
+    /* Move the navbar up inside #main's padding. */
+    height: $nav-height;
+  }
+  #content-top,
+  .region-sidebar-first {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
 /**
  * Use 6 grid columns for smaller screens.
  */
