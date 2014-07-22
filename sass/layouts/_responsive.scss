@@ -93,7 +93,7 @@ $zen-auto-include-grid-item-base: false;
 /**
  * Use 6 grid columns for smaller screens.
  */
-@media all and (min-width: 480px) and (max-width: 759px) {
+@media all and (min-width: 480px) and (max-width: 959px) {
   $zen-columns: 6;
   $zen-gutters:  10px;
 #main {
