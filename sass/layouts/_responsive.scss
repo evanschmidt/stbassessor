@@ -50,6 +50,10 @@ $zen-auto-include-grid-item-base: false;
   // See the note about $zen-auto-include-item-base above.
   @include zen-grid-item-base();
 }
+#content-top {
+  padding-left: 0;
+  padding-right: 0;
+}
 #block-block-11,
 #block-block-12,
 #block-block-2,
@@ -356,6 +360,10 @@ $zen-auto-include-grid-item-base: false;
   #navigation {
     /* Move the navbar up inside #main's padding. */
     height: $nav-height;
+  }
+  #content-top {
+    padding-left: 10px;
+    padding-right: 10px;
   }
 #main {
  //@include zen-grid-background($grid-color: #CCC);
