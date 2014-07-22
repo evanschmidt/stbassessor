@@ -99,6 +99,20 @@ $zen-auto-include-grid-item-base: false;
 #main {
   //@include zen-grid-background($grid-color: #CCC);
 }
+  #main {
+    /* Move all the children of #main down to make room. */
+    padding-top: $nav-height;
+  }
+  #navigation {
+    /* Move the navbar up inside #main's padding. */
+    height: $nav-height;
+  }
+  #content-top,
+  .region-sidebar-first {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
 .front {
   h1 {
     display: none;
