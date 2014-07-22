@@ -349,6 +349,14 @@ $zen-auto-include-grid-item-base: false;
 @media all and (min-width: 960px) {
   $zen-columns: 12;
   $zen-gutters:  20px;
+  #main {
+    /* Move all the children of #main down to make room. */
+    padding-top: $nav-height;
+  }
+  #navigation {
+    /* Move the navbar up inside #main's padding. */
+    height: $nav-height;
+  }
 #main {
  //@include zen-grid-background($grid-color: #CCC);
 }
