@@ -50,7 +50,8 @@ $zen-auto-include-grid-item-base: false;
   // See the note about $zen-auto-include-item-base above.
   @include zen-grid-item-base();
 }
-#content-top {
+#content-top,
+.region-sidebar-first {
   padding-left: 0;
   padding-right: 0;
 }
@@ -361,7 +362,8 @@ $zen-auto-include-grid-item-base: false;
     /* Move the navbar up inside #main's padding. */
     height: $nav-height;
   }
-  #content-top {
+  #content-top,
+  .region-sidebar-first {
     padding-left: 10px;
     padding-right: 10px;
   }
