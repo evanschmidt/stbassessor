@@ -2590,12 +2590,12 @@ body {
   line-height: 1.125em;
   font-weight: normal;
   margin-top: 1em;
-  margin-left: 0.5em;
+  margin-left: 0.75em;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\0000359}}
 #content-top .region-content-top-right p {
   color: #666666;
-  margin: 0.65em 1em;
+  margin: 0.65em 1.25em;
   font-size: 0.9em;
   line-height: 1.3em;
 }
