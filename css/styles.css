@@ -700,13 +700,13 @@ table {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003102}}
   #main {
     /* Move all the children of #main down to make room. */
-    padding-top: 4.4em;
+    padding-top: 5.4em;
   }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003106}}
   #navigation {
     /* Move the navbar up inside #main's padding. */
-    height: 4.4em;
+    height: 5.4em;
   }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003110}}
@@ -1184,13 +1184,13 @@ table {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003371}}
   #main {
     /* Move all the children of #main down to make room. */
-    padding-top: 4.4em;
+    padding-top: 5.4em;
   }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003375}}
   #navigation {
     /* Move the navbar up inside #main's padding. */
-    height: 4.4em;
+    height: 5.4em;
   }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/layouts\/_responsive\.scss}line{font-family:\00003379}}
