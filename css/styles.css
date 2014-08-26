@@ -2702,7 +2702,7 @@ body {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003158}}
 .region-sidebar-second .block p {
-  color: #666666;
+  color: #999999;
   margin: 0.3em 1em 0.3em 0;
   line-height: 1.5em;
   font-size: 0.9em;
@@ -3041,13 +3041,13 @@ body {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003457}}
 #footer #block-block-1 {
-  padding-top: 1em;
+  padding-top: 0.02em;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003459}}
 #footer #block-block-1 h2 {
   font-weight: normal;
-  font-size: 1.75em;
-  line-height: 1em;
+  font-size: 1.6em;
+  line-height: 1.17em;
   margin-bottom: 0.25em;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003465}}
