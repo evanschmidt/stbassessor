@@ -2827,7 +2827,7 @@ body {
   display: block;
   font-weight: bold;
   line-height: 1.2em;
-  padding: 0.25em 0 0.25em 0.25em;
+  padding: 0.5em 0 0.5em 0.25em;
   text-decoration: none;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003273}}
