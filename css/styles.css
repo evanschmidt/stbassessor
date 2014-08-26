@@ -2622,7 +2622,7 @@ body {
   color: #7cd2b5;
   line-height: 1.125em;
   font-weight: normal;
-  margin-top: 1.65em;
+  margin-top: 0.5em;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\0000386}}
 #content h2 {
@@ -2690,7 +2690,7 @@ body {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003148}}
 .region-sidebar-second {
-  margin-top: 2em;
+  margin-top: 3em;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardAssessor\/drupal-dev\/sites\/all\/themes\/stbassessor\/sass\/_stbassess\.scss}line{font-family:\00003151}}
 .region-sidebar-second .block h2 {
