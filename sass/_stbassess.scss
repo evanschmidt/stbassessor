@@ -484,8 +484,13 @@ body {
   }
 
 }
-#block-block-10 {
+.region-bottom {
   font-size: 0.75em;
+  #block-block-10 {
+  } 
+  #block-block-19 {
+    float: right;
+  }
 }
 .view-staff {
   @include zen-grid-container();
